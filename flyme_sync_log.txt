@@ -1,0 +1,1063 @@
+[2019-09-25 20:01]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-25 20:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-25 20:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-25 22:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 06:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 06:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 07:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 07:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 08:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 08:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:21]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 12:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 13:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 13:59]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 14:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 14:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 14:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 16:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 17:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 17:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 17:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:40]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:47]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-26 18:47]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-26 18:48]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-26 18:48]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-26 18:49]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-26 18:49]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-26 18:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 18:59]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 19:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 19:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 19:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 19:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 22:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-26 23:08]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-26 23:08]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-26 23:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 05:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 05:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 06:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 06:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 06:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 10:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 11:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 11:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 12:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 12:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 12:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 12:42]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-27 12:42]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-27 12:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 12:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 13:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 13:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 13:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 13:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 13:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 15:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-27 23:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 12:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 12:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 12:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 12:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 15:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 16:09]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-28 16:09]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-28 16:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 17:16]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-28 23:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 06:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 08:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 12:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 12:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 12:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 13:21]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 13:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 15:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 19:18]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 19:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 19:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 20:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:17]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 21:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 22:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-29 22:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 05:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 05:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 05:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 05:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 06:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 06:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 06:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 07:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 07:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 07:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 08:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 08:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 08:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 10:16]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 10:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 10:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 10:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 10:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 11:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 11:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 11:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 13:59]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-09-30 13:59]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-09-30 15:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 16:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 16:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 16:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 18:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 18:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 18:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 18:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 18:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 19:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 19:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 21:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 21:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 21:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 22:18]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 22:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 22:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 22:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 22:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-09-30 23:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 05:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 05:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 06:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 06:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 13:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 14:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 15:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 15:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 15:17]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 17:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 18:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 18:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 21:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 21:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:10]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:10]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:11]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:11]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:11]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:11]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:13]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:13]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:15]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:15]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:15]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:15]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:15]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:15]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:16]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:16]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:19]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:19]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:20]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:20]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:22]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:22]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:23]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:23]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:23]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:23]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:24]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-01 22:24]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-01 22:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 22:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-01 23:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 00:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 05:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 06:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 06:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 13:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 14:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 14:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 14:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 17:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 17:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 17:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 17:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 18:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 18:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 18:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 19:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 20:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 20:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 21:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 22:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 23:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-02 23:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 00:00]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 05:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 05:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 05:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 06:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 06:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 06:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 13:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 13:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 13:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 14:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 14:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 16:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 17:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 17:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 17:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 18:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 18:21]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 19:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 20:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 20:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 20:36]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 20:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 20:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 21:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 21:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 21:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 22:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 23:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 23:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 23:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 23:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-03 23:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 00:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 00:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 05:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 05:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 06:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:17]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:18]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 11:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:00]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:01]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:01]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 13:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 14:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 15:24]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 15:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 16:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 16:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 16:48]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:48]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 16:50]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:50]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 16:52]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:52]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 16:52]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:52]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 16:52]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:52]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 16:53]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 16:53]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 17:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 17:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 17:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 18:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 18:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 19:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 19:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 19:34]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 19:34]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 19:35]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 19:35]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 19:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 20:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 20:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 21:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 21:17]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 21:17]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 21:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 22:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 22:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 22:18]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-04 22:24]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 22:24]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 22:28]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 22:28]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 22:28]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-04 22:28]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-04 22:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 00:18]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 05:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 05:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 06:01]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 06:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 06:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 12:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 15:01]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 15:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 15:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 16:04]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 16:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 16:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 16:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 16:10]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:10]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:11]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:11]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:13]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:13]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:13]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:13]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:15]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:15]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:20]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:20]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:21]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:21]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:38]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:38]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:41]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:41]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:42]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 16:42]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 16:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 17:01]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 17:01]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 17:04]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-05 17:04]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-05 17:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 17:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 18:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 18:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 18:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 19:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 19:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 20:17]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 20:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 20:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 20:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 21:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 21:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 21:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 21:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:00]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-05 22:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 05:43]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 05:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 05:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 05:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 05:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 08:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 08:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 08:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 08:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 09:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 09:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 10:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 10:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 11:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 11:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 11:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 12:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 16:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 17:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 17:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 17:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 18:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 19:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 19:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 19:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 19:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:00]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:31]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-06 20:31]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-06 20:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 20:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 21:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 21:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-06 22:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 04:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 04:21]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 05:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 05:24]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 05:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 13:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 13:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 13:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 13:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 15:34]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 18:44]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 18:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 19:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 19:48]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 20:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 20:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 20:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 21:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 21:40]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 22:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-07 23:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 05:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 05:59]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 06:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 06:26]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 13:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 14:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 17:10]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 18:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 18:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 18:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 18:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 18:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 19:15]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 19:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 19:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-08 22:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 00:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 00:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 05:46]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 05:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 05:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 06:19]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 06:24]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 06:40]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 06:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 12:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 12:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 12:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 12:55]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 13:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 13:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 15:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 17:05]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 17:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 17:59]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 19:40]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 20:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 20:21]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 20:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 20:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 20:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 21:12]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 21:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 22:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 22:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 22:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 23:00]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-09 23:28]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 05:16]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 05:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 05:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 05:56]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 06:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 06:49]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 13:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 14:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 15:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 16:57]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 19:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 19:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 19:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 20:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 21:41]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 21:47]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 22:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 22:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 22:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 22:50]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-10 23:11]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 00:07]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 05:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 06:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 06:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 11:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 11:35]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 14:30]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 14:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 14:40]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 14:53]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 18:24]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 18:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 19:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 19:34]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-11 19:34]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-11 19:45]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 20:09]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 20:27]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 20:52]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 21:13]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 21:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 21:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 22:42]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 23:14]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-11 23:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 04:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 04:51]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 05:06]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 05:31]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 06:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 06:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 12:02]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 15:23]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 16:20]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 16:29]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 16:34]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-12 16:34]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-12 17:21]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-12 17:21]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-12 17:21]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-12 17:21]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-12 18:08]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 19:22]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 19:39]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 19:58]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 20:03]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 21:25]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-12 21:54]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-13 04:32]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-13 04:33]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-13 04:56]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-13 04:56]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-13 05:20]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-13 05:20]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-13 05:26]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-13 05:26]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-13 05:33]  SyncType : fromSyncKey(×××) --- unknown sync type error!
+[2019-10-13 05:33]  SyncSettingProvider : 7010
+com.meizu.sync.exception.SyncException: Unknown Sync Type !
+	at com.meizu.sync.common.SyncType.fromSyncKey(SourceFile:311)
+	at com.meizu.sync.db.SyncSettingProvider.query(SourceFile:82)
+	at android.content.ContentProvider.query(ContentProvider.java:1140)
+	at android.content.ContentProvider$Transport.query(ContentProvider.java:262)
+	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:112)
+	at android.os.Binder.execTransact(Binder.java:462)
+
+[2019-10-13 05:37]  SyncMainManager : skip request retrySync when auto sync switcher close!
+[2019-10-13 05:38]  SyncMainManager : skip request retrySync when auto sync switcher close!
